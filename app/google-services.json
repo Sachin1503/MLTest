@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "706296756343",
+    "firebase_url": "https://mltest-d4760.firebaseio.com",
+    "project_id": "mltest-d4760",
+    "storage_bucket": "mltest-d4760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706296756343:android:ce2ac31d5afab721",
+        "android_client_info": {
+          "package_name": "com.sachin.mltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706296756343-rhsuq6o5q0qruqqnruvul0ldjlmgdrua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkDrZfLkDSKzu02QQVP756J-qQ2uLfgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
